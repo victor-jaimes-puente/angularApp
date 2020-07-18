@@ -1,0 +1,17 @@
+#calcInput2{
+  max-width: 3em;
+}
+#calcInput1, #calcInput3{
+  max-width: 6em;
+}
+button{
+  height: 3em;
+  width: 3em;
+  margin: .05em;
+}
+#inputDiv{
+  margin-bottom: .05em;
+}
+#calcContainer {
+  margin-left: 40%;
+}
